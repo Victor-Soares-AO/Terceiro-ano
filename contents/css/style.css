@@ -1,0 +1,27 @@
+.container-sm{
+    margin-top: 10px;
+}
+
+.div-container{
+    border: 1px solid black;
+}
+
+.container-sm label{
+    margin-top: 10px;
+}
+input{
+    margin-top: 5px;
+}
+
+.div-btn{
+    margin: 10px;
+}
+
+.div-progress{
+    margin: 10px;
+    display: none;
+}
+
+table{
+    border: 2px solid black;
+}
